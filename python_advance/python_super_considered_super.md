@@ -1,3 +1,5 @@
+# Python’s super() considered super! #
+
 被项目中的一个多重继承坑了一个多小时，于是决定再翻翻[这篇](https://rhettinger.wordpress.com/2011/05/26/super-considered-super/)经典文章，按大致意思翻译了一下。翻译的不太好，英文的表现力有时比中文更强大！如果英语水平足够，建议直接读原文。
 
 如果你没有被Python的super()惊愕过，那么要么是你不了解它的威力，要么就是你不知道如何高效地使用它。
