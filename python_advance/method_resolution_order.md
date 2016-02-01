@@ -1,5 +1,4 @@
-Method Resolution Order
-=
+# Method Resolution Order #
 
 本文整理自Python她爹Guido van Rossum所述的Python“正史”，戳[原文链接](http://python-history.blogspot.ru/2010/06/method-resolution-order.html)
 
