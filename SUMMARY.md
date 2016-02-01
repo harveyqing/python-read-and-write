@@ -7,6 +7,7 @@
    * [Python字典实现](python_advance/python_dict_implementation.md)
    * [Python线程同步机制](python_advance/python_thread_sync.md)
    * [Method Resolution Order](python_advance/method_resolution_order.md)
+   * [Python’s super() considered super!](python_advance/python_super_considered_super.md)
 * [Python基础拾遗](python_basic/README.md)
    * [如何在Python中创建一个可迭代函数（或者可迭代对象）](python_basic/python_iterator.md)
    * [Queue - 一种线程安全的FIFO实现](python_basic/fifo_queue.md)
